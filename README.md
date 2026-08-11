@@ -55,6 +55,3 @@ Unlike standard classifiers, this system uses a **cascading logic** to optimize 
  * **Automated Pattern Discovery:** Uses **DBScan Clustering** to group raw logs, allowing for the automatic generation of Regex rules.
  * **Cost Optimization:** By handling 80%+ of logs via Regex and BERT, the system minimizes expensive LLM token usage.
  * **REST API Support:** Ready-to-use endpoints to upload .csv files and receive classified results.
-## 📝 License
-Distributed under the MIT License. See LICENSE for more information.
-**Developed by [Your Name]** *Passionate about building scalable AI Automation and LLM-powered applications.*
