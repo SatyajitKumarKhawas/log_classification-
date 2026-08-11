@@ -1,5 +1,5 @@
 
-# Hybrid Log Classification System
+# LogFlow
 An intelligent, multi-tiered log analysis pipeline that combines the speed of **Regex**, the precision of **BERT**, and the reasoning power of **LLMs** to categorize system logs with maximum cost-efficiency.
 ## 🚀 The Hybrid Architecture
 Unlike standard classifiers, this system uses a **cascading logic** to optimize performance and minimize API costs:
