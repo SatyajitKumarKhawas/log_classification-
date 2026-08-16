@@ -129,6 +129,3 @@ Covers regex matching, routing logic (with BERT/LLM mocked out), LLM response ca
 
 Python · Streamlit · FastAPI · LangChain / LangGraph · Groq (Llama 3.3) · sentence-transformers · scikit-learn · pandas 
 
-## License
-
-Add your license here.
