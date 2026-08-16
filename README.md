@@ -1,4 +1,4 @@
-# Hybrid Log Classifier
+# LogFlow
 
 A cost-aware log classification system that routes each log through the cheapest method capable of handling it — regex, then an embedding-based ML model, then a retrieval-augmented LLM — before escalating to expensive calls. Every prediction ships with a confidence score and a plain-English explanation. Built on top: a tool-calling Q&A agent, an autonomous investigator, a chatbot, a REST API, and Slack automation via n8n.
 
